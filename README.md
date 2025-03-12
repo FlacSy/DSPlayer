@@ -17,7 +17,7 @@ pip install dsplayer
 Или установите последнюю версию с GitHub:
 
 ```bash
-pip install git+https://github.com/FlacSy/dsplayer
+pip install git+https://github.com/FlacSy/DSplayer
 ```
 
 > **Примечание:** Установка через PyPI гарантирует стабильную версию, тогда как установка с GitHub предоставляет последние изменения и улучшения.
